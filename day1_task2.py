@@ -1,7 +1,7 @@
 import util
 import math
 
-lines = util.read_lines(__file__, False)
+lines = util.read_lines(False)
 res = 0
 dial = 50
 for line in lines:
